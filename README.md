@@ -8,12 +8,10 @@
 
 3 - Data Wrangling.ipynb
 
-4 - Complete the EDA with SQL.ipynb
+4 - EDA with SQL.ipynb
 
-5 - jupyter-labs-eda-dataviz.ipynb
+5 - EDA with Visualization.ipynb
 
-6 - lab_jupyter_launch_site_location.ipynb
+6 - Interactive Visual Analytics with Folium.ipynb
 
-7 - spacex_dash_app.py & Hands-on Lab_ Build an Interactive Dashboard with Ploty Dash.ipynb
-
-8 - SpaceX_Machine Learning Prediction_Part_5.ipynb
+7 - Machine Learning Prediction.ipynb
