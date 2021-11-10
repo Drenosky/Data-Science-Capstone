@@ -14,4 +14,6 @@
 
 6 - Interactive Visual Analytics with Folium.ipynb
 
-7 - Machine Learning Prediction.ipynb
+7 - Dashboard Application with Plotly Dash
+
+8 - Machine Learning Prediction.ipynb
